@@ -1,6 +1,22 @@
-#href{
+a{
     color: green;
     font-family: sans-serif;
     font-size: 30px
 
+}
+a:hover{
+
+color:lime;
+text-decoration: none;
+
+}
+
+img{
+    width: 300px;
+    margin: 30px;
+}
+img:hover{
+
+    width: 400px;
+    margin: 0px;
 }
